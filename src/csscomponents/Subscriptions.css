@@ -1,0 +1,46 @@
+
+.Subscription{
+    margin-top: 6rem;
+    text-align: center;
+
+}
+ .inputandbtn{
+     text-align: center;
+     padding: 6rem;
+     margin-bottom: 2rem;
+   
+    height: 6rem;
+    margin: auto;
+}
+
+
+.btn {
+  border: none;
+  
+   height: 4rem;
+   width: 10rem;
+   white-space: 3rem;
+    border-radius:1.5rem; ;
+    background-color: #00dbd0;
+    color: #fff;
+    font-size: larger;
+    padding: 1rem;
+    cursor: pointer;
+    font-size: larger;
+
+}
+.btn:hover{
+    color: #00dbd0;
+    background-color: transparent;
+    transition: all 1s ease-in-out;
+}
+
+input{
+
+    border: none;
+    background-color: transparent;
+    color: #00dbd0;
+    font-size: larger;
+    margin-right: 4rem;
+    outline: none;
+}

@@ -1,0 +1,49 @@
+.contant{
+    text-align: center;
+    width: 30rem;
+    margin: auto;
+    padding-top: 9rem;
+    justify-content: center;
+}
+.ractanglebox{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-around;
+    margin: 4rem 2rem 3rem ;
+    
+}
+
+.box{
+    width: 10rem;
+    justify-content: center;
+    align-items: center;
+    height: 15rem;
+    margin-bottom: 2rem;
+    overflow: hidden;
+   
+    padding: 52.4px 51.7px 21px 51px;
+    border-radius: 20px;
+    border: solid 0.5px #ffffff;
+   
+    text-align: center;
+    background-color: #ffffff;
+    border: 2px dashed;
+    border-color:#00dbd0 ;
+    
+    
+}
+.ractanglebox :hover{
+background-color:#00dbd0 ;
+color: #ffffff;
+transition: all 1s ease-in-out;
+}
+
+.box img{
+    height: 8rem;
+    width: 10rem;
+    border-radius: .5rem;
+    border: .1rem solid #ffffff;
+    margin: auto;
+}
