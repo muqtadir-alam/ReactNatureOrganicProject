@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/ReactNatureOrganicProject/static/css/main.413232f9.chunk.css",
+    "main.css": "/ReactNatureOrganicProject/static/css/main.5ba5bd88.chunk.css",
     "main.js": "/ReactNatureOrganicProject/static/js/main.4223ffe1.chunk.js",
     "main.js.map": "/ReactNatureOrganicProject/static/js/main.4223ffe1.chunk.js.map",
     "runtime-main.js": "/ReactNatureOrganicProject/static/js/runtime-main.d37c33e2.js",
@@ -8,13 +8,13 @@
     "static/js/2.ef162047.chunk.js": "/ReactNatureOrganicProject/static/js/2.ef162047.chunk.js",
     "static/js/2.ef162047.chunk.js.map": "/ReactNatureOrganicProject/static/js/2.ef162047.chunk.js.map",
     "index.html": "/ReactNatureOrganicProject/index.html",
-    "static/css/main.413232f9.chunk.css.map": "/ReactNatureOrganicProject/static/css/main.413232f9.chunk.css.map",
+    "static/css/main.5ba5bd88.chunk.css.map": "/ReactNatureOrganicProject/static/css/main.5ba5bd88.chunk.css.map",
     "static/js/2.ef162047.chunk.js.LICENSE.txt": "/ReactNatureOrganicProject/static/js/2.ef162047.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.d37c33e2.js",
     "static/js/2.ef162047.chunk.js",
-    "static/css/main.413232f9.chunk.css",
+    "static/css/main.5ba5bd88.chunk.css",
     "static/js/main.4223ffe1.chunk.js"
   ]
 }
