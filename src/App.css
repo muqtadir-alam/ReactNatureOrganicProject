@@ -1,0 +1,16 @@
+body{
+    box-sizing: border-box;
+    width: 100vw;
+    margin: auto;
+    padding: 0;
+    scroll-behavior: smooth;
+    transition: all 1s ease-in-out;
+    scroll-behavior: smooth;
+    scroll-snap-type: y mandatory;
+    scrollbar-width: none;
+}
+*{
+    
+    
+    scroll-snap-align: start;
+}

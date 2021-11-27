@@ -5,7 +5,7 @@
 const Container3= () => {
 	return (
 		<>
-			<div className='container3'>
+			<div className='container3' id="About">
 				<div className='contant'>
                     <h2>Proudly presented by</h2>
                     

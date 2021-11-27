@@ -4,7 +4,7 @@ import "../csscomponents/footer.css"
 const Footer = () => {
 	return (
 		<>
-            <div className='footer'>
+            <div className='footer' id="Contact">
                 <div className="first-container">
                     <div className="logo">
                 <img   src="https://upload.wikimedia.org/wikipedia/commons/3/33/Vanamo_Logo.png" alt="" />

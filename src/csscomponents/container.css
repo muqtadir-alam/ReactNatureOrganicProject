@@ -4,15 +4,18 @@
 	flex-direction: row;
 	align-items: stretch;
 	flex: 0.5;
-	/* flex-wrap: wrap; */
+	flex-wrap: wrap;
 	height: 75vh;
+    justify-content: space-around;
+    margin-bottom: 5rem;
+    
 }
 .leftcontainer {
-	flex: 0.5;
+	
 	display: flex;
 	flex-direction: column;
 	/* background-color: violet; */
-	justify-content: center;
+	justify-content: space-around;
 	align-items: center;
 	padding-left: 3rem;
 }

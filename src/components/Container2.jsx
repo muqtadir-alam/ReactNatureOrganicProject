@@ -5,7 +5,7 @@ import Container2Box from './Container2Box'
 const Container2 = () => {
 	return (
 		<>
-			<div className='container2'>
+			<div className='container2' id="Product">
 				<div className='contant'>
                     <h2>Welcome to Nature</h2>
                     

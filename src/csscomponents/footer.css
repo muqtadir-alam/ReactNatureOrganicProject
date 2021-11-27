@@ -1,10 +1,12 @@
 .footer{
     display: flex;
+    flex-wrap: wrap;
     background-color: #252433;
     justify-content: space-around;
     height: 18rem;
     color: white;
     margin-top: 6rem;
+    overflow: scroll;
 }
 
 .first-container{

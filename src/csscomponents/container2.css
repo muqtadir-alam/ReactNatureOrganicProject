@@ -13,14 +13,16 @@
     justify-content: space-around;
     margin: 4rem 2rem 3rem ;
     
+    
 }
 
 .box{
     width: 10rem;
-    justify-content: center;
+    justify-content: space-around;
     align-items: center;
     height: 15rem;
     margin-bottom: 2rem;
+    
     overflow: hidden;
    
     padding: 52.4px 51.7px 21px 51px;

@@ -5,7 +5,7 @@ import BlogBox  from "./BlogBox"
 const Blog = () => {
 	return (
 		<>
-			<div className='container2'>
+			<div className='container2' id="Blog">
 				<div className='contant'>
 					<h2>Read Our Blog</h2>
 
